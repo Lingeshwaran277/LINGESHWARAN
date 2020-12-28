@@ -1,1 +1,1 @@
-# LINGESHWARAN
+Print("Hello world")
